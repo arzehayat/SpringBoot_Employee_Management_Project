@@ -8,7 +8,7 @@ public class SpringBootMvcsdpProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootMvcsdpProjectApplication.class, args);
-		System.out.println("Project is Running Successfully On GitHub !!!!...");
+		System.out.println("Project is Running Successfully On GitHub !!!");
 	}
 
 }
